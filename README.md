@@ -1,6 +1,6 @@
 # news-dashboard
 
-***Code is in the "master" branch. That was a bit of a mishap while pushing from VS, but since I plan on develpoing the project further, it kind of works out.***
+***Code is in the "master" branch. That was a bit of a mishap while pushing from VS, but since I plan on develping the project further, it kind of works out.***
 
 This is a news dashboard app created using winforms on .NET. It features picture boxes on the main menu (and their corresponding buttons on the left menu) that represent different news categories. Content for the news categories is retrieved from https://newsapi.org/.
 
